@@ -1,3 +1,3 @@
-# 100DaysOfCode-with_python_course
+# 100DaysOfCode-with-python-course
 
 My experiments with python code
